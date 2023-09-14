@@ -1,4 +1,11 @@
-/* OFICINA DADOS */
+/* CRIE UMA OFICINA DADOS 
+ Crie um banco de dados a sua oficina chamado projeto e concecte-se ao banco 
+ Faça a seguinte modelagem :
+Sr. José quer modernizar a sua oficina e por enquanto , cadastrar os carros que entram para realizar
+serviço e os seus respectivos donos Sr .José mensionou que cada cliente possui apenas um carro .
+Um carro possui uma marca Sr.José também quer saber as cores dos carros para ter ideia de qual tinta comprar ,
+e informar que um carro pode ter mais de uma cor . 
+Dr.José necessita armazenar os telefones dos clientes , mas nao quer que eles sejam obrigatórios. */
 
 USE OFICINA
 CREATE TABLE C_CARRO(
